@@ -1,0 +1,400 @@
+class ZeeFive
+{
+	public static void main(String[] star)
+	{
+		String loser="Loser";
+		
+		String locked="Locked";
+		
+		String mekaSuri="Meka Suri";
+		
+		String recce="Recce";
+		
+		String maaNeellaTank="Maa Neella Tank";
+		
+		String okaChinnaFamilyStory="Oka Chinna Family Story";
+		
+		String premaEnthaMadhuram="Prema Entha Madhuram";
+		
+		String kalyanaVaibhogam="Kalyana Vaibhogam";
+		
+		String no1Kodalu="No.1 Kodalu";
+		
+		String suryakantham="Suryakantham";
+		
+		String trinayani="Trinayani";
+		
+		String krishnaTulasi="Krishna Tulasi";
+		
+		String radhammaKuthuru="Radhamma Kuthuru";
+		
+		String hitlerGariPellam="Hitler Gari Pellam";
+		
+		String devathalaraDeevinchandi="Devathalara Deevinchandi";
+		
+		String intiGuttu="Inti Guttu";
+		
+		String kalyanaVaibhogam2022="Kalyana Vaibhogam (2022)";
+		
+		String mutyalaMuggu="Mutyala Muggu";
+		
+		String varudhiniParinayam="Varudhini Parinayam";
+		
+		String manaAmbedkar="Mana Ambedkar";
+		
+		String muddhamandaram="Muddha Mandaram";
+		
+		String mangammaGariManavaralu="Mangamma Gari Manavaralu";
+		
+		String gundammaKathaSeries="Gundamma Katha (Series)";
+		
+		String ninnePelladatha="Ninne Pelladatha (Zee5)";
+		
+		String americaAmmayi="America Ammayi";
+		
+		String adhikar="Adhikar";
+		
+		String ammayiGaru="Ammayi Garu";
+		
+		String ramaraju="Ramaraju";
+		
+		String chadarangam="Chadarangam";
+		
+		String vyavastha="Vyavastha";
+
+		String teluguSeries[]={loser,locked,mekaSuri,recce,maaNeellaTank,okaChinnaFamilyStory,premaEnthaMadhuram,kalyanaVaibhogam,no1Kodalu,suryakantham,trinayani,krishnaTulasi,radhammaKuthuru,hitlerGariPellam,devathalaraDeevinchandi,intiGuttu,kalyanaVaibhogam2022,mutyalaMuggu,varudhiniParinayam,manaAmbedkar,muddhamandaram,mangammaGariManavaralu,gundammaKathaSeries,ninnePelladatha,americaAmmayi,adhikar,ammayiGaru,ramaraju,chadarangam,vyavastha};
+		for(String serialTelugu:teluguSeries)
+			System.out.println(serialTelugu);
+		
+		System.out.println("\n");
+
+		String gattimela="Gattimela";
+		
+		String jotheJotheyali="Jothe Jotheyali";
+		
+		String yaareNeeMohini="Yaare Nee Mohini";
+		
+		String kamali="Kamali";
+		
+		String paaru="Paaru";
+		
+		String naagini2="Naagini 2";
+		
+		String brahmagantu="Brahmagantu";
+		
+		String subbalakshmiSamsara="Subbalakshmi Samsara";
+		
+		String sathya="Sathya";
+		
+		String kinnari="Kinnari";
+		
+		String radhaRamana="Radha Ramana";
+		
+		String ganga="Ganga";
+		
+		String mahadevi="Mahadevi";
+		
+		String mangalaGowriMaduve="Mangala Gowri Maduve";
+		
+		String nagamandala="Nagamandala";
+		
+		String arundhati="Arundhati";
+		
+		String seethaVallabha="Seetha Vallabha";
+		
+		String kaveri="Kaveri";
+		
+		String krishnaRukmini="Krishna Rukmini";
+		
+		String anuroopa="Anuroopa";
+		
+		String nigoodaRatri="Nigooda Ratri";
+		
+		String edheyo="Edheyo";
+		
+		String hooMale="Hoo Male";
+		
+		String mahanati="Mahanati";
+		
+		String anjali="Anjali";
+		
+		String soseTandaSowbhagya="Sose Tanda Sowbhagya";
+		
+		String putmalli="Putmalli";
+		
+		String jodiHakki="Jodi Hakki";
+		
+		String shubhavivaha="Shubhavivaha";
+		
+		String bandhana="Bandhana";
+
+		String kannadaSeries[]={gattimela,jotheJotheyali,yaareNeeMohini,kamali,paaru,naagini2,brahmagantu,subbalakshmiSamsara,sathya,kinnari,radhaRamana,ganga,mahadevi,mangalaGowriMaduve,nagamandala,arundhati,seethaVallabha,kaveri,krishnaRukmini,anuroopa,nigoodaRatri,edheyo,hooMale,mahanati,anjali,soseTandaSowbhagya,putmalli,jodiHakki,shubhavivaha,bandhana};
+		for(String serialKannada:kannadaSeries)
+			System.out.println(serialKannada);
+
+		System.out.println("\n");	
+
+		String sembaruthi="Sembaruthi";
+		
+		String yaaradiNeeMohini="Yaaradi Nee Mohini";
+		
+		String poovePoochoodava="Poove Poochoodava";
+		
+		String sathyaTamil="Sathya";
+		
+		String oruOorulaRajakumari="Oru Oorula Oru Rajakumari";
+		
+		String rettaiRoja="Rettai Roja";
+		
+		String devathaiyaiKanden="Devathaiyai Kanden";
+		
+		String neethaneEnthanPonvasantham="Neethane Enthan Ponvasantham";
+		
+		String peranbu="Peranbu";
+		
+		String rajamagal="Rajamagal";
+		
+		String maari="Maari";
+		
+		String chithiramPesuthadi="Chithiram Pesuthadi";
+		
+		String thirumathiHitler="Thirumathi Hitler";
+		
+		String ninaithaleInikkum="Ninaithale Inikkum";
+		
+		String kannathilMuthamittal="Kannathil Muthamittal (Series)";
+		
+		String amudhavumAnnalakshmiyum="Amudhavum Annalakshmiyum";
+		
+		String vidhyaNo1="Vidhya No.1";
+		
+		String karthigaiDeepam="Karthigai Deepam";
+		
+		String anna="Anna";
+		
+		String sandhyaRaagam="Sandhya Raagam";
+		
+		String meenakshiPonnunga="Meenakshi Ponnunga";
+		
+		String idhayam="Idhayam";
+		
+		String anbeSivamSeries="Anbe Sivam (Series)";
+		
+		String suryavamsamSeries="Suryavamsam (Series)";
+		
+		String veera="Veera";
+		
+		String pudhuPudhuArthangal="Pudhu Pudhu Arthangal";
+		
+		String nenjathaiKillathe="Nenjathai Killathe (Series)";
+		
+		String thavamaiThavamirundhu="Thavamai Thavamirundhu (Series)";
+		
+		String thalayanaiPookal="Thalayanai Pookal";
+		
+		String uyire="Uyire";
+
+		String tamilSeries[]={sembaruthi,yaaradiNeeMohini,poovePoochoodava,sathyaTamil,oruOorulaRajakumari,rettaiRoja,devathaiyaiKanden,neethaneEnthanPonvasantham,peranbu,rajamagal,maari,chithiramPesuthadi,thirumathiHitler,ninaithaleInikkum,kannathilMuthamittal,amudhavumAnnalakshmiyum,vidhyaNo1,karthigaiDeepam,anna,sandhyaRaagam,meenakshiPonnunga,idhayam,anbeSivamSeries,suryavamsamSeries,veera,pudhuPudhuArthangal,nenjathaiKillathe,thavamaiThavamirundhu,thalayanaiPookal,uyire};
+		for(String serialTamil:tamilSeries)
+			System.out.println(serialTamil);
+		
+		System.out.println("\n");
+
+		String chembarathi="Chembarathi";
+		
+		String neeyumNjanum="Neeyum Njanum";
+		
+		String kaiyethumDoorath="Kaiyethum Doorath";
+		
+		String mrsHitler="Mrs Hitler";
+		
+		String kudumbashreeSharada="Kudumbashree Sharada";
+		
+		String mizhiRandilum="Mizhi Randilum";
+		
+		String manamPoleMangalyam="Manam Pole Mangalyam";
+		
+		String sathyaEnnaPenkutty="Sathya Enna Penkutty";
+		
+		String sumangaliBhava="Sumangali Bhava";
+		
+		String pookalamVaravayi="Pookalam Varavayi";
+		
+		String suryakanthi="Suryakanthi";
+		
+		String ayalatheSundari="Ayalathe Sundari";
+		
+		String moonnumani="Moonnumani";
+		
+		String mangalyam="Mangalyam";
+		
+		String swathiNakshatramChothi="Swathi Nakshatram Chothi";
+		
+		String pranayavarnangal="Pranayavarnangal";
+		
+		String bharya="Bharya";
+		
+		String bandhanam="Bandhanam";
+		
+		String makkal="Makkal";
+		
+		String nokkethaDoorathu="Nokketha Doorathu";
+		
+		String shyamambaram="Shyamambaram";
+		
+		String snehakoodu="Snehakoodu";
+		
+		String karthikaDeepamMalayalam="Karthika Deepam (Malayalam)";
+		
+		String ammayariyathe="Ammayariyathe";
+		
+		String nandanam="Nandanam";
+		
+		String indira="Indira";
+		
+		String arayannangaludeVeedu="Arayannangalude Veedu";
+		
+		String kudumbavilakku="Kudumbavilakku";
+		
+		String enteMaathavu="Ente Maathavu";
+		
+		String seethaKalyanam="Seetha Kalyanam";
+
+		String malayalamSeries[]={chembarathi,neeyumNjanum,kaiyethumDoorath,mrsHitler,kudumbashreeSharada,mizhiRandilum,manamPoleMangalyam,sathyaEnnaPenkutty,sumangaliBhava,pookalamVaravayi,suryakanthi,ayalatheSundari,moonnumani,mangalyam,swathiNakshatramChothi,pranayavarnangal,bharya,bandhanam,makkal,nokkethaDoorathu,shyamambaram,snehakoodu,karthikaDeepamMalayalam,ammayariyathe,nandanam,indira,arayannangaludeVeedu,kudumbavilakku,enteMaathavu,seethaKalyanam};
+		for(String serialMalayalam:malayalamSeries)
+			System.out.println(serialMalayalam);
+		
+		System.out.println("\n");
+
+		String brokenNews="The Broken News";
+		
+		String abhay="Abhay";
+		
+		String sunflower="Sunflower";
+		
+		String kaafir="Kaafir";
+		
+		String rangbaaz="Rangbaaz";
+		
+		String rangbaazRajneeti="Rangbaaz: Darr Ki Rajneeti";
+		
+		String stateSiege2611="State of Siege: 26/11";
+		
+		String stateSiegeTemple="State of Siege: Temple Attack";
+		
+		String poison="Poison";
+		
+		String poison2="Poison 2";
+		
+		String duranga="Duranga";
+		
+		String duranga2="Duranga 2";
+		
+		String codeM="Code M";
+		
+		String codeM2="Code M 2";
+		
+		String karenjitKaur="Karenjit Kaur";
+		
+		String finalCall="The Final Call";
+		
+		String lalbazaar="Lalbazaar";
+		
+		String bombers="Bombers";
+		
+		String naxalbari="Naxalbari";
+		
+		String blackWidows="Black Widows";
+		
+		String bloodyBrothers="Bloody Brothers";
+		
+		String tripling="Tripling";
+		
+		String neverKissBestFriend="Never Kiss Your Best Friend";
+		
+		String fittrat="Fittrat";
+		
+		String bicchooKaKhel="Bicchoo Ka Khel";
+		
+		String jeetKiZid="Jeet Ki Zid";
+		
+		String rejctx="REJCTX";
+		
+		String highPriestess="High Priestess";
+		
+		String marriedWoman="The Married Woman";
+		
+		String smoke="Smoke";
+
+		String englishSeries[]={brokenNews,abhay,sunflower,kaafir,rangbaaz,rangbaazRajneeti,stateSiege2611,stateSiegeTemple,poison,poison2,duranga,duranga2,codeM,codeM2,karenjitKaur,finalCall,lalbazaar,bombers,naxalbari,blackWidows,bloodyBrothers,tripling,neverKissBestFriend,fittrat,bicchooKaKhel,jeetKiZid,rejctx,highPriestess,marriedWoman,smoke};
+		for(String serialEnglish:englishSeries)
+			System.out.println(serialEnglish);
+		
+		System.out.println("\n");
+
+		String abhayHindi="Abhay";
+		
+		String rangbaazHindi="Rangbaaz";
+		
+		String rangbaazDarr="Rangbaaz: Darr Ki Rajneeti";
+		
+		String sunflowerHindi="Sunflower";
+		
+		String kaafirHindi="Kaafir";
+		
+		String stateSiegeHindi="State of Siege: 26/11";
+		
+		String stateSiegeTempleHindi="State of Siege: Temple Attack";
+		
+		String poisonHindi="Poison";
+		
+		String poison2Hindi="Poison 2";
+		
+		String durangaHindi="Duranga";
+		
+		String duranga2Hindi="Duranga 2";
+		
+		String codeMHindi="Code M";
+		
+		String codeM2Hindi="Code M 2";
+		
+		String karenjitKaurHindi="Karenjit Kaur";
+		
+		String finalCallHindi="The Final Call";
+		
+		String lalbazaarHindi="Lalbazaar";
+		
+		String bombersHindi="Bombers";
+		
+		String naxalbariHindi="Naxalbari";
+		
+		String blackWidowsHindi="Black Widows";
+		
+		String bloodyBrothersHindi="Bloody Brothers";
+		
+		String triplingHindi="Tripling";
+		
+		String neverKissHindi="Never Kiss Your Best Friend";
+		
+		String fittratHindi="Fittrat";
+		
+		String bicchooKaKhelHindi="Bicchoo Ka Khel";
+		
+		String jeetKiZidHindi="Jeet Ki Zid";
+		
+		String rejctxHindi="REJCTX";
+		
+		String highPriestessHindi="High Priestess";
+		
+		String marriedWomanHindi="The Married Woman";
+		
+		String smokeHindi="Smoke";
+		
+		String tajDividedByBlood="Taj: Divided by Blood";
+
+		String hindiSeries[]={abhayHindi,rangbaazHindi,rangbaazDarr,sunflowerHindi,kaafirHindi,stateSiegeHindi,stateSiegeTempleHindi,poisonHindi,poison2Hindi,durangaHindi,duranga2Hindi,codeMHindi,codeM2Hindi,karenjitKaurHindi,finalCallHindi,lalbazaarHindi,bombersHindi,naxalbariHindi,blackWidowsHindi,bloodyBrothersHindi,triplingHindi,neverKissHindi,fittratHindi,bicchooKaKhelHindi,jeetKiZidHindi,rejctxHindi,highPriestessHindi,marriedWomanHindi,smokeHindi,tajDividedByBlood};
+		for(String serialHindi:hindiSeries)
+			System.out.println(serialHindi);
+
+	}
+}
