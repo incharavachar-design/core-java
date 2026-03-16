@@ -1,0 +1,10 @@
+class TabtEx
+{
+    public static void main(String[] args)
+    {
+        Tabl.powerOn(true);
+        Tabl.increaseBrightness();
+        Tabl.increaseBrightness();
+        Tabl.decreaseBrightness();
+    }
+}
