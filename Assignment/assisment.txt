@@ -1,0 +1,24 @@
+Explain constructor chaining using this() with example
+Constructor is a method it is a special type of method same name as class name
+
+
+What is constructor in java ? Who provide the default constructor 
+Constructor  is a special type  of method same name as class name and it does not consist any return type
+
+
+Can a constructor have return type?  Why
+No constructor does not consist any return type
+
+
+Give real world example for has a relationship
+where each other has a connection or relation between each other like hotel as floor and floor as a rooms 
+
+
+Write a java program to perform CRUD operations on an array 
+
+
+Explain default values assigned to instance variables in Java with example
+default values are already assigned before only if we not assign any values for the instance variable it we give us default value which is already stored in java
+like for string it will give null as default value and integer it will give 0 as default value
+
+
